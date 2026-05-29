@@ -1,0 +1,25 @@
+1 Dil Nedir ve DÅnya Dilleri Aras’ndaki Yeri.md
+10 Sekil Bilgisi - Isim Äekim Ekleri.md
+11 Sekil Bilgisi - Fiil Äekim Ekleri (Kip, Zaman ve Sah’s).md
+12 Kelime TÅrleri - Isimler ve Isim Tamlamalar’.md
+13 Kelime TÅrleri - S’fatlar (ôn Adlar).md
+14 Kelime TÅrleri - Zamirler (Ad’llar).md
+15 Kelime TÅrleri - Zarflar (Belirteáler).md
+16 Kelime TÅrleri - Edatlar, Baglaálar ve önlemler.md
+17 Kelime TÅrleri - Fiiller ve Fiil Äat’lar’.md
+18 CÅmle Bilgisi (Sentaks) - CÅmlenin ôgeleri.md
+19 (FINAL) CÅmle TÅrleri ve Yap’sal Analiz.md
+2 TÅrk Yaz’ Dilinin Tarihå Gelisimi ve Kollar’.md
+3 Ses Bilgisi (Fonetik) ve Seslerin Mahiyeti.md
+4 TÅrkáedeki Vokaller (önlÅler) ve Tasnifi.md
+5 TÅrkáede önlÅ (Vokal) Uyumlar’ ve Kurallar’.md
+6 Konsonantlar (önsÅzler) ve S’n’fland’r’lmas’.md
+7 TÅrkáedeki Ses Hadiseleri (Ses Olaylar’).md
+8 Sekil Bilgisi (Morfoloji) - Kelime Yap’s’, Kîkler ve Gîvdeler.md
+9 Sekil Bilgisi - Eklerin DÅnyas’ ve Yap’m Ekleri.md
+api-examples.md
+Giris - DÅnya Dilleri ve TÅrkáenin Yeri (Dil aileleri, Ural-Altay dilleri, konusma ve yaz’ dili kavramlar’).md
+index.md
+markdown-examples.md
+txt.txt
+Iáindekiler.md
